@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Restaurante Bon Appétit</title>
+<style>
+    body {
+        background-color: #ffe6cc;
+        color: #333;
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
+    h1 {
+        color: #ff6600;
+        font-size: 36px;
+    }
+    .marquee {
+        white-space: nowrap;
+        overflow: hidden;
+        background-color: #ffcc99;
+        padding: 10px;
+    }
+    table {
+        width: 80%;
+        margin: 20px auto;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 10px;
+        border-bottom: 1px solid #ff6600;
+    }
+    th {
+        background-color: #ff9966;
+    }
+</style>
+
+</head>
+<body>
+<h1>¡Bienvenidos a Restaurante EL RANCHITO!</h1>
+<div class="marquee">
+    <h2>Descubre nuestros exquisitos platos y sabores únicos</h2>
+</div>
+<p><strong>Dirección:</strong> Calle Principal, Ciudad, País</p>
+<p><em>"Donde cada bocado es una experiencia inolvidable"</em></p>
+
+
+<div class="video-container">
+        <video width="400" height="320" controls>
+            <source src="35a69c118d6b245c35676e781bcdd90b.mp4" type="video/mp4">
+            Tu navegador no soporta el elemento de video.
+        </video>
+        }
+
+<table>
+    <tr>
+        <th>Plato</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td>TACOS</td>
+        <td>$12.99</td>
+    </tr>
+    <tr>
+        <td>SOPES</td>
+        <td>$16.99</td>
+    </tr>
+</table>
+<p>A CONTINUACION NUESTRA ESPECIALIDAD</p>
+<img src="ceviche-de-camaron.jpg" alt="Descripción de la imagen">
+
+<h2><a href="https://www.facebook.com/RestauranYBalnearioElRanchito/">Haz tu reserva aquí</a></h2>
+</style>
+</body>
+</html>
